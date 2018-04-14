@@ -107,7 +107,7 @@ public class file_name_comparator {
 				 * If both of them are numbers we have to check which one 
 				 * of the substring is consecutively large.For this we run a while
 				 * loop till the characters are not numbers.
-				 * Even though a nested loop exists,the complexity is still
+				 * Even though  nested loops exists,the complexity is still
 				 * O(strlen(c1)+strlen(c2)) since the nested loop also gets incremented w.r.t 
 				 * i and j.According to the code,each element of both  c1 and c2 
 				 * gets executed twice at maximum. 
