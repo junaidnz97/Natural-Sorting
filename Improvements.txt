@@ -5,5 +5,3 @@
 
 2)	Escape sequences are currently treated as a single character,but it would be better if they are treated as 	   2 seperate characters.
 	For eg: "\b" should be treated as 2 seperate characters,"\" and "b" instead of a single character.
-
-3)	
