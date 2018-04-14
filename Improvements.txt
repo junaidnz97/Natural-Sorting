@@ -1,0 +1,9 @@
+
+1)	Currently comparison is being done only for 2 strings.N strings can be sorted by using a merge-sort tree
+	with some alterations.It will give the answer in a time complexity of 
+	O(N*logN*(str1.length()+str2.length()+....strN.length())).
+
+2)	Escape sequences are currently treated as a single character,but it would be better if they are treated as 	   2 seperate characters.
+	For eg: "\b" should be treated as 2 seperate characters,"\" and "b" instead of a single character.
+
+3)	
