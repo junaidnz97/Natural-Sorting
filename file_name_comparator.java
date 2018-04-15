@@ -115,8 +115,7 @@ public class file_name_comparator {
 				
 				/*
 				 * pos1 and pos2 stores the starting position of the substring.
-				 * count1 and count 2 stores the length of the substring.
-				 * flag variable is set to 1 if  
+				 * count1 and count 2 stores the length of the substring.  
 				 */
 				
 				int pos1=i,pos2=j,count1=0,count2=0;
